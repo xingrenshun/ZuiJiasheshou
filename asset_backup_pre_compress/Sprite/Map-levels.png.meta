@@ -1,0 +1,2841 @@
+fileFormatVersion: 2
+guid: c229dc28cc87e394e8d461e1d9891a13
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8480678365812511141
+    second: Map-levels_0
+  - first:
+      213: 8725208108539217208
+    second: Map-levels_1
+  - first:
+      213: 316298536158330419
+    second: Map-levels_2
+  - first:
+      213: -1812001617957727802
+    second: Map-levels_3
+  - first:
+      213: 6962298687696944420
+    second: Map-levels_4
+  - first:
+      213: -4041106109940382002
+    second: Map-levels_5
+  - first:
+      213: -6062414068432551433
+    second: Map-levels_6
+  - first:
+      213: -7422245942389046662
+    second: Map-levels_7
+  - first:
+      213: 2513346309819183474
+    second: Map-levels_8
+  - first:
+      213: 5557810987646852756
+    second: Map-levels_9
+  - first:
+      213: 475436483529569925
+    second: Map-levels_10
+  - first:
+      213: -9078821848987411925
+    second: Map-levels_11
+  - first:
+      213: 7275745494164918714
+    second: Map-levels_12
+  - first:
+      213: -1317177414787031745
+    second: Map-levels_13
+  - first:
+      213: -1714439934734018637
+    second: Map-levels_14
+  - first:
+      213: -532675904119618106
+    second: Map-levels_15
+  - first:
+      213: 6578484953559402147
+    second: Map-levels_16
+  - first:
+      213: 5492960423773596304
+    second: Map-levels_17
+  - first:
+      213: -3530615729891720419
+    second: Map-levels_18
+  - first:
+      213: -5849319028849639524
+    second: Map-levels_19
+  - first:
+      213: -5204264605668328941
+    second: Map-levels_20
+  - first:
+      213: 3439143235289416223
+    second: Map-levels_21
+  - first:
+      213: -7183759449472720119
+    second: Map-levels_22
+  - first:
+      213: 2043486857746612776
+    second: Map-levels_23
+  - first:
+      213: 6055661129156970299
+    second: Map-levels_24
+  - first:
+      213: 7265888843347915982
+    second: Map-levels_25
+  - first:
+      213: -351900877034853092
+    second: Map-levels_26
+  - first:
+      213: -5004326705622743
+    second: Map-levels_27
+  - first:
+      213: -5717687424236551809
+    second: Map-levels_28
+  - first:
+      213: 6161214925583110012
+    second: Map-levels_29
+  - first:
+      213: -7036659541193449833
+    second: Map-levels_30
+  - first:
+      213: -750932695952960529
+    second: Map-levels_31
+  - first:
+      213: 2384387888998619266
+    second: Map-levels_32
+  - first:
+      213: -7414978637143535578
+    second: Map-levels_33
+  - first:
+      213: 447133930676408242
+    second: Map-levels_34
+  - first:
+      213: -3193510504105563198
+    second: Map-levels_35
+  - first:
+      213: 3864198345638017560
+    second: Map-levels_36
+  - first:
+      213: -7264463230290791644
+    second: Map-levels_37
+  - first:
+      213: -764574923124575451
+    second: Map-levels_38
+  - first:
+      213: 6810834401713864622
+    second: Map-levels_39
+  - first:
+      213: -4272013541739106247
+    second: Map-levels_40
+  - first:
+      213: -7304368911623564785
+    second: Map-levels_41
+  - first:
+      213: 2271351974969828593
+    second: Map-levels_42
+  - first:
+      213: -6752146369750564989
+    second: Map-levels_43
+  - first:
+      213: -3680936218448478499
+    second: Map-levels_44
+  - first:
+      213: -3681055233538255109
+    second: Map-levels_45
+  - first:
+      213: 7344511422482179415
+    second: Map-levels_46
+  - first:
+      213: -6051764448815191965
+    second: Map-levels_47
+  - first:
+      213: 8746630794887095818
+    second: Map-levels_48
+  - first:
+      213: 3581699971744802977
+    second: Map-levels_49
+  - first:
+      213: 6674240163482945041
+    second: Map-levels_50
+  - first:
+      213: -4493059218470148952
+    second: Map-levels_51
+  - first:
+      213: 1447127602740219177
+    second: Map-levels_52
+  - first:
+      213: 6356856767398749149
+    second: Map-levels_53
+  - first:
+      213: -7989330711387406603
+    second: Map-levels_54
+  - first:
+      213: -8312870704564717488
+    second: Map-levels_55
+  - first:
+      213: 5684213381455222289
+    second: Map-levels_56
+  - first:
+      213: 5758629116960031520
+    second: Map-levels_57
+  - first:
+      213: 1625732658667516800
+    second: Map-levels_58
+  - first:
+      213: -7268734470490689062
+    second: Map-levels_59
+  - first:
+      213: -8417771908415912349
+    second: Map-levels_60
+  - first:
+      213: 8687803071334206322
+    second: Map-levels_61
+  - first:
+      213: 3707900113767884930
+    second: Map-levels_62
+  - first:
+      213: 536413185053972322
+    second: Map-levels_63
+  - first:
+      213: 189646151483959670
+    second: Map-levels_64
+  - first:
+      213: 2373784498051179989
+    second: Map-levels_65
+  - first:
+      213: 8446030796864407445
+    second: Map-levels_66
+  - first:
+      213: -7386525098874541221
+    second: Map-levels_67
+  - first:
+      213: -6761160392335802873
+    second: Map-levels_68
+  - first:
+      213: -7842209188251996706
+    second: Map-levels_69
+  - first:
+      213: -4690569683389297244
+    second: Map-levels_70
+  - first:
+      213: 8911300970712135679
+    second: Map-levels_71
+  - first:
+      213: 1823544076005909983
+    second: Map-levels_72
+  - first:
+      213: -5090617033797134683
+    second: Map-levels_73
+  - first:
+      213: -2236307990285397322
+    second: Map-levels_74
+  - first:
+      213: 3666521894620639985
+    second: Map-levels_75
+  - first:
+      213: 4728448847772102403
+    second: Map-levels_76
+  - first:
+      213: -8361186525193651121
+    second: Map-levels_77
+  - first:
+      213: -7231353903626189301
+    second: Map-levels_78
+  - first:
+      213: -2689486499433063016
+    second: Map-levels_79
+  - first:
+      213: 777561123960402490
+    second: Map-levels_80
+  - first:
+      213: 6310709133823303461
+    second: Map-levels_81
+  - first:
+      213: -3713977225045693516
+    second: Map-levels_82
+  - first:
+      213: 6661931215781881661
+    second: Map-levels_83
+  - first:
+      213: -1498053827882825461
+    second: Map-levels_84
+  - first:
+      213: 5908707926511742266
+    second: Map-levels_85
+  - first:
+      213: 526552265154449886
+    second: Map-levels_86
+  - first:
+      213: 7109966332051850583
+    second: Map-levels_87
+  - first:
+      213: 7963337022067440848
+    second: Map-levels_88
+  - first:
+      213: -7246216499885737945
+    second: Map-levels_89
+  - first:
+      213: -2717946127372244456
+    second: Map-levels_90
+  - first:
+      213: -1625648575556678801
+    second: Map-levels_91
+  - first:
+      213: 5197145677619742686
+    second: Map-levels_92
+  - first:
+      213: -4029192402538597782
+    second: Map-levels_93
+  - first:
+      213: 6647660840340112090
+    second: Map-levels_94
+  - first:
+      213: -16917311224103366
+    second: Map-levels_95
+  - first:
+      213: 8810969229206690735
+    second: Map-levels_96
+  - first:
+      213: -1152536217109163719
+    second: Map-levels_97
+  - first:
+      213: 3418372841487863485
+    second: Map-levels_98
+  - first:
+      213: 1980622964357240506
+    second: Map-levels_99
+  - first:
+      213: 8610652007927748684
+    second: Map-levels_100
+  - first:
+      213: -2055329392675112331
+    second: Map-levels_101
+  - first:
+      213: -8422227004742144991
+    second: Map-levels_102
+  - first:
+      213: -100353111105162970
+    second: Map-levels_103
+  - first:
+      213: 2491766005110404804
+    second: Map-levels_104
+  - first:
+      213: -7840794772695571427
+    second: Map-levels_105
+  - first:
+      213: 1069676489221227609
+    second: Map-levels_106
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Map-levels_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1362
+        width: 1348
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a158988a0c61b570800000000000000
+      internalID: 8480678365812511141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_1
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1436
+        width: 848
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83586dceb8a261970800000000000000
+      internalID: 8725208108539217208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_2
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1449
+        width: 799
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e71b2c7d7b36400800000000000000
+      internalID: 316298536158330419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_3
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 674
+        width: 837
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1523df02a7ad6e0800000000000000
+      internalID: -1812001617957727802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_4
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 1246
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3854c4cd0f9060800000000000000
+      internalID: 6962298687696944420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_5
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 706
+        width: 803
+        height: 633
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6c759576b1be7c0800000000000000
+      internalID: -4041106109940382002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_6
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 469
+        width: 1352
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f14fb9568afddba0800000000000000
+      internalID: -6062414068432551433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_7
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 922
+        width: 41
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a720150e3a2eef890800000000000000
+      internalID: -7422245942389046662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_8
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1173
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271bf4a072331e220800000000000000
+      internalID: 2513346309819183474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_9
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 470
+        width: 349
+        height: 719
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e147f85af412d40800000000000000
+      internalID: 5557810987646852756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_10
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5867a0a76f6199600800000000000000
+      internalID: 475436483529569925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_11
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1153
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2adc0841ab810280800000000000000
+      internalID: -9078821848987411925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_12
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1133
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab159d77af3a8f460800000000000000
+      internalID: 7275745494164918714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_13
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9375be1278bde0800000000000000
+      internalID: -1317177414787031745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1128
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b75f6d76f51538e0800000000000000
+      internalID: -1714439934734018637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_15
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c54a82661e8b98f0800000000000000
+      internalID: -532675904119618106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_16
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1115
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6092106397b4b50800000000000000
+      internalID: 6578484953559402147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_17
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 1088
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aed48076aea3c40800000000000000
+      internalID: 5492960423773596304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_18
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1071
+        width: 41
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13c56d13bbb00fc0800000000000000
+      internalID: -3530615729891720419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_19
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1071
+        width: 27
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ffb73955b03dea0800000000000000
+      internalID: -5849319028849639524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_20
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1066
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a300e1aecb6c7b0800000000000000
+      internalID: -5204264605668328941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_21
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1069
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f120d171d8a4abf20800000000000000
+      internalID: 3439143235289416223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_22
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1071
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a25687d82e4c90800000000000000
+      internalID: -7183759449472720119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_23
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1060
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228a23687ceb5c10800000000000000
+      internalID: 2043486857746612776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_24
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1027
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37ca8376b70a0450800000000000000
+      internalID: 6055661129156970299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_25
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1035
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4f93d186f95d460800000000000000
+      internalID: 7265888843347915982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_26
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1024
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d603c440ccd1bf0800000000000000
+      internalID: -351900877034853092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1028
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9211f5467983eeff0800000000000000
+      internalID: -5004326705622743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_28
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 993
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7189adc491b6a0b0800000000000000
+      internalID: -5717687424236551809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_29
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 998
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4730d458018550800000000000000
+      internalID: 6161214925583110012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_30
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 984
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1dc9dd63c85e90800000000000000
+      internalID: -7036659541193449833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_31
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 980
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35f7f01b62495f0800000000000000
+      internalID: -750932695952960529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_32
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 966
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288918ae62c071120800000000000000
+      internalID: 2384387888998619266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_33
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 932
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62013fb3734b81990800000000000000
+      internalID: -7414978637143535578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_34
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 932
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfcdf0e0f9843600800000000000000
+      internalID: 447133930676408242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_35
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 932
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb2f40dd1f5ea3d0800000000000000
+      internalID: -3193510504105563198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 931
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81af7650ce360a530800000000000000
+      internalID: 3864198345638017560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_37
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 924
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42371aa4e217f2b90800000000000000
+      internalID: -7264463230290791644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_38
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 909
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523fcf6882fa365f0800000000000000
+      internalID: -764574923124575451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_39
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 918
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf3a229dc1f48e50800000000000000
+      internalID: 6810834401713864622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_40
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 818
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9307bf06152c6b4c0800000000000000
+      internalID: -4272013541739106247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_41
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 911
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f025542dc2ba1aa90800000000000000
+      internalID: -7304368911623564785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_42
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 851
+        width: 7
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f465fb4696758f10800000000000000
+      internalID: 2271351974969828593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_43
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 892
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ff29fa6ae8b42a0800000000000000
+      internalID: -6752146369750564989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_44
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 888
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde32820300baecc0800000000000000
+      internalID: -3680936218448478499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_45
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 882
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf61c56a4c34aecc0800000000000000
+      internalID: -3681055233538255109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_46
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 882
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75569d1d932fce560800000000000000
+      internalID: 7344511422482179415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 880
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36868042c40d30ca0800000000000000
+      internalID: -6051764448815191965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_48
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 877
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ecb6cd56426970800000000000000
+      internalID: 8746630794887095818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_49
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 871
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a820ebc521c4b130800000000000000
+      internalID: 3581699971744802977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_50
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 851
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116cb0a211aaf9c50800000000000000
+      internalID: 6674240163482945041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_51
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 851
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4ea40327275a1c0800000000000000
+      internalID: -4493059218470148952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_52
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 809
+        width: 7
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d4ef133ea351410800000000000000
+      internalID: 1447127602740219177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_53
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 836
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd327d4cc87183850800000000000000
+      internalID: 6356856767398749149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_54
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 761
+        width: 91
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe72aa1c02302190800000000000000
+      internalID: -7989330711387406603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_55
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 818
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0583bae3320c2ac80800000000000000
+      internalID: -8312870704564717488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_56
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 818
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116192544f162ee40800000000000000
+      internalID: 5684213381455222289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_57
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 809
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023cf9ddba2caef40800000000000000
+      internalID: 5758629116960031520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_58
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 803
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f0a35d33cf8610800000000000000
+      internalID: 1625732658667516800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_59
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 739
+        width: 41
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1f3cfa284402b90800000000000000
+      internalID: -7268734470490689062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_60
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 800
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3668b9e6c011e2b80800000000000000
+      internalID: -8417771908415912349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_61
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 783
+        width: 41
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4c690dd6419870800000000000000
+      internalID: 8687803071334206322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_62
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 783
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e3c7128b157330800000000000000
+      internalID: 3707900113767884930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_63
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 783
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2675af323f8b17700800000000000000
+      internalID: 536413185053972322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_64
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 789
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679a8348b22c1a200800000000000000
+      internalID: 189646151483959670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_65
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 774
+        width: 83
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56ba39c6061f020800000000000000
+      internalID: 2373784498051179989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_66
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 783
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597cc11c244563570800000000000000
+      internalID: 8446030796864407445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_67
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 764
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b631dde8acd7990800000000000000
+      internalID: -7386525098874541221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_68
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 756
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e326102788b22a0800000000000000
+      internalID: -6761160392335802873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_69
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 749
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd6fe70b40ea2390800000000000000
+      internalID: -7842209188251996706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_70
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 696
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4d5389bfb7eeb0800000000000000
+      internalID: -4690569683389297244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_71
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 734
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7f3edc40d4bab70800000000000000
+      internalID: 8911300970712135679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_72
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 718
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a992fca78e4910800000000000000
+      internalID: 1823544076005909983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_73
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 714
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a618fc67ce7a59b0800000000000000
+      internalID: -5090617033797134683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_74
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 683
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2dba63bb907f0e0800000000000000
+      internalID: -2236307990285397322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_75
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 669
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f23e02bc3a12e230800000000000000
+      internalID: 3666521894620639985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_76
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 654
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30faf06bc23de9140800000000000000
+      internalID: 4728448847772102403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_77
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 661
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbc01a72917fb80800000000000000
+      internalID: -8361186525193651121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_78
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b060a3120f115ab90800000000000000
+      internalID: -7231353903626189301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_79
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 649
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d551d37460daad0800000000000000
+      internalID: -2689486499433063016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_80
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 635
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3230d8f8b37aca00800000000000000
+      internalID: 777561123960402490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_81
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 635
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd95a8584249750800000000000000
+      internalID: 6310709133823303461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_82
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 635
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bba24d246d457cc0800000000000000
+      internalID: -3713977225045693516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_83
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 635
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e3c2f42fe37c50800000000000000
+      internalID: 6661931215781881661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_84
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 625
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0941a60bf7d53be0800000000000000
+      internalID: -1498053827882825461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_85
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 634
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d6441bd82fff150800000000000000
+      internalID: 5908707926511742266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_86
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 632
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed15530de70be4700800000000000000
+      internalID: 526552265154449886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_87
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 622
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75500f275bcaba260800000000000000
+      internalID: 7109966332051850583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_88
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 624
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcfb0b74d4738e60800000000000000
+      internalID: 7963337022067440848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_89
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 612
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7287cb64c74407b90800000000000000
+      internalID: -7246216499885737945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_90
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 583
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a245fb56ae74ad0800000000000000
+      internalID: -2717946127372244456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_91
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 602
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b035ccb398079e0800000000000000
+      internalID: -1625648575556678801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_92
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed74b784578ff1840800000000000000
+      internalID: 5197145677619742686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_93
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 581
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62fbf28bde6518c0800000000000000
+      internalID: -4029192402538597782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_94
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 569
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad24fbf305c314c50800000000000000
+      internalID: 6647660840340112090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_95
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 567
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebee98bc5e3cff0800000000000000
+      internalID: -16917311224103366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_96
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 541
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab13c9d4d9d64a70800000000000000
+      internalID: 8810969229206690735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_97
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 555
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9319f6cba6e5100f0800000000000000
+      internalID: -1152536217109163719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_98
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 499
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe0abeecff707f20800000000000000
+      internalID: 3418372841487863485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_99
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 539
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab69e70a7169c7b10800000000000000
+      internalID: 1980622964357240506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_100
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 528
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c489909416e2f7770800000000000000
+      internalID: 8610652007927748684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_101
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 519
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3e259ec00a73e0800000000000000
+      internalID: -2055329392675112331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_102
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 508
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c64ac792d3e1b80800000000000000
+      internalID: -8422227004742144991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_103
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 475
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621b87c80697b9ef0800000000000000
+      internalID: -100353111105162970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_104
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 497
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6fffdcaf7849220800000000000000
+      internalID: 2491766005110404804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_105
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 495
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14adb052b6ef2390800000000000000
+      internalID: -7840794772695571427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map-levels_106
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9544e9c791148de00800000000000000
+      internalID: 1069676489221227609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Map-levels_0: 8480678365812511141
+      Map-levels_1: 8725208108539217208
+      Map-levels_10: 475436483529569925
+      Map-levels_100: 8610652007927748684
+      Map-levels_101: -2055329392675112331
+      Map-levels_102: -8422227004742144991
+      Map-levels_103: -100353111105162970
+      Map-levels_104: 2491766005110404804
+      Map-levels_105: -7840794772695571427
+      Map-levels_106: 1069676489221227609
+      Map-levels_11: -9078821848987411925
+      Map-levels_12: 7275745494164918714
+      Map-levels_13: -1317177414787031745
+      Map-levels_14: -1714439934734018637
+      Map-levels_15: -532675904119618106
+      Map-levels_16: 6578484953559402147
+      Map-levels_17: 5492960423773596304
+      Map-levels_18: -3530615729891720419
+      Map-levels_19: -5849319028849639524
+      Map-levels_2: 316298536158330419
+      Map-levels_20: -5204264605668328941
+      Map-levels_21: 3439143235289416223
+      Map-levels_22: -7183759449472720119
+      Map-levels_23: 2043486857746612776
+      Map-levels_24: 6055661129156970299
+      Map-levels_25: 7265888843347915982
+      Map-levels_26: -351900877034853092
+      Map-levels_27: -5004326705622743
+      Map-levels_28: -5717687424236551809
+      Map-levels_29: 6161214925583110012
+      Map-levels_3: -1812001617957727802
+      Map-levels_30: -7036659541193449833
+      Map-levels_31: -750932695952960529
+      Map-levels_32: 2384387888998619266
+      Map-levels_33: -7414978637143535578
+      Map-levels_34: 447133930676408242
+      Map-levels_35: -3193510504105563198
+      Map-levels_36: 3864198345638017560
+      Map-levels_37: -7264463230290791644
+      Map-levels_38: -764574923124575451
+      Map-levels_39: 6810834401713864622
+      Map-levels_4: 6962298687696944420
+      Map-levels_40: -4272013541739106247
+      Map-levels_41: -7304368911623564785
+      Map-levels_42: 2271351974969828593
+      Map-levels_43: -6752146369750564989
+      Map-levels_44: -3680936218448478499
+      Map-levels_45: -3681055233538255109
+      Map-levels_46: 7344511422482179415
+      Map-levels_47: -6051764448815191965
+      Map-levels_48: 8746630794887095818
+      Map-levels_49: 3581699971744802977
+      Map-levels_5: -4041106109940382002
+      Map-levels_50: 6674240163482945041
+      Map-levels_51: -4493059218470148952
+      Map-levels_52: 1447127602740219177
+      Map-levels_53: 6356856767398749149
+      Map-levels_54: -7989330711387406603
+      Map-levels_55: -8312870704564717488
+      Map-levels_56: 5684213381455222289
+      Map-levels_57: 5758629116960031520
+      Map-levels_58: 1625732658667516800
+      Map-levels_59: -7268734470490689062
+      Map-levels_6: -6062414068432551433
+      Map-levels_60: -8417771908415912349
+      Map-levels_61: 8687803071334206322
+      Map-levels_62: 3707900113767884930
+      Map-levels_63: 536413185053972322
+      Map-levels_64: 189646151483959670
+      Map-levels_65: 2373784498051179989
+      Map-levels_66: 8446030796864407445
+      Map-levels_67: -7386525098874541221
+      Map-levels_68: -6761160392335802873
+      Map-levels_69: -7842209188251996706
+      Map-levels_7: -7422245942389046662
+      Map-levels_70: -4690569683389297244
+      Map-levels_71: 8911300970712135679
+      Map-levels_72: 1823544076005909983
+      Map-levels_73: -5090617033797134683
+      Map-levels_74: -2236307990285397322
+      Map-levels_75: 3666521894620639985
+      Map-levels_76: 4728448847772102403
+      Map-levels_77: -8361186525193651121
+      Map-levels_78: -7231353903626189301
+      Map-levels_79: -2689486499433063016
+      Map-levels_8: 2513346309819183474
+      Map-levels_80: 777561123960402490
+      Map-levels_81: 6310709133823303461
+      Map-levels_82: -3713977225045693516
+      Map-levels_83: 6661931215781881661
+      Map-levels_84: -1498053827882825461
+      Map-levels_85: 5908707926511742266
+      Map-levels_86: 526552265154449886
+      Map-levels_87: 7109966332051850583
+      Map-levels_88: 7963337022067440848
+      Map-levels_89: -7246216499885737945
+      Map-levels_9: 5557810987646852756
+      Map-levels_90: -2717946127372244456
+      Map-levels_91: -1625648575556678801
+      Map-levels_92: 5197145677619742686
+      Map-levels_93: -4029192402538597782
+      Map-levels_94: 6647660840340112090
+      Map-levels_95: -16917311224103366
+      Map-levels_96: 8810969229206690735
+      Map-levels_97: -1152536217109163719
+      Map-levels_98: 3418372841487863485
+      Map-levels_99: 1980622964357240506
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

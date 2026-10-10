@@ -1,0 +1,11 @@
+{
+  "appid": "tt39754fc8a70f296902",
+  "projectname": "射箭战斗",
+
+   "packOptions": {
+    "ignore": [
+      { "type": "folder", "value": "native" },
+      { "type": "folder", "value": "__MACOSX" }
+    ]
+  }
+}

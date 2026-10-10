@@ -1,0 +1,26 @@
+{
+  "deviceOrientation":"landscape",
+  "menuButtonStyle":"dark",
+  "enableWebGL2":true,
+  "enableIOSHighPerformanceMode": true,
+  "enableIOSHighPerformanceModePlus": false,
+  "subpackages": [
+    
+    {
+      "name" : "wasmcode",
+      "root" : "wasmcode/"
+    },
+    {
+      "name" : "data-package",
+      "root" : "data-package/"
+    }
+  ],
+  "plugins": {
+    "UnityPlugin": {
+      "version": "4.38.0",
+      "provider": "tt674511f8f84ea91612"
+    }
+  },
+  "graphicsDeviceType": []
+  
+}

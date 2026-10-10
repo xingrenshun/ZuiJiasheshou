@@ -1,0 +1,23 @@
+{
+  "appid": "tt69d71f6af6cdfebd07",
+  "projectname": "射箭战斗",
+  "unity": {
+    "build": {
+      "webgl": "E:\\Unity\\huochairenGJ\\tt-minigame\\webgl_package-20260112_203015.zip",
+      "native": {
+        "il2cpp": "",
+        "apk": "",
+        "fullApk": ""
+      },
+      "instantGame": ""
+    },
+    "publishType": "2",
+    "starkSdkVersion": "Without StarkSDK",
+    "unityToolsVersion": "",
+    "unityEngineVersion": "2022.3.48f1c1",
+    "arch": ""
+  },
+  "setting": {
+    "urlCheck": false
+  }
+}
